@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaThread\bin\Debug\net5.0\PizzaThread.exe
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaThread\bin\Debug\net5.0\PizzaThread.deps.json
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaThread\bin\Debug\net5.0\PizzaThread.runtimeconfig.json
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaThread\bin\Debug\net5.0\PizzaThread.runtimeconfig.dev.json
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaThread\bin\Debug\net5.0\PizzaThread.dll
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaThread\bin\Debug\net5.0\PizzaThread.pdb
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaThread\obj\Debug\net5.0\PizzaThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaThread\obj\Debug\net5.0\PizzaThread.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaThread\obj\Debug\net5.0\PizzaThread.AssemblyInfo.cs
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaThread\obj\Debug\net5.0\PizzaThread.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaThread\obj\Debug\net5.0\PizzaThread.sourcelink.json
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaThread\obj\Debug\net5.0\PizzaThread.dll
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaThread\obj\Debug\net5.0\refint\PizzaThread.dll
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaThread\obj\Debug\net5.0\PizzaThread.pdb
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaThread\obj\Debug\net5.0\PizzaThread.genruntimeconfig.cache
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaThread\obj\Debug\net5.0\ref\PizzaThread.dll

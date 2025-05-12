@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaEvent\bin\Debug\net5.0\PizzaEvent.exe
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaEvent\bin\Debug\net5.0\PizzaEvent.deps.json
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaEvent\bin\Debug\net5.0\PizzaEvent.runtimeconfig.json
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaEvent\bin\Debug\net5.0\PizzaEvent.runtimeconfig.dev.json
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaEvent\bin\Debug\net5.0\PizzaEvent.dll
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaEvent\bin\Debug\net5.0\PizzaEvent.pdb
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaEvent\obj\Debug\net5.0\PizzaEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaEvent\obj\Debug\net5.0\PizzaEvent.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaEvent\obj\Debug\net5.0\PizzaEvent.AssemblyInfo.cs
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaEvent\obj\Debug\net5.0\PizzaEvent.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaEvent\obj\Debug\net5.0\PizzaEvent.sourcelink.json
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaEvent\obj\Debug\net5.0\PizzaEvent.dll
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaEvent\obj\Debug\net5.0\refint\PizzaEvent.dll
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaEvent\obj\Debug\net5.0\PizzaEvent.pdb
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaEvent\obj\Debug\net5.0\PizzaEvent.genruntimeconfig.cache
+C:\Users\user\source\repos\ServerStudy\PizzaServer\PizzaEvent\obj\Debug\net5.0\ref\PizzaEvent.dll

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "새 프로필",
+    "Projects": [
+      {
+        "Path": "SimpleClient\\SimpleClient.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PizzaEvent\\PizzaEvent.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

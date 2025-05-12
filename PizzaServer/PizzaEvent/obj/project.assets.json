@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\ConsoleApp3\\PizzaEvent.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\PizzaEvent\\PizzaEvent.csproj",
       "projectName": "PizzaEvent",
-      "projectPath": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\ConsoleApp3\\PizzaEvent.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\PizzaEvent\\PizzaEvent.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\ConsoleApp3\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\PizzaEvent\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

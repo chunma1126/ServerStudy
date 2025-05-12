@@ -1,6 +1,8 @@
 using System.Net.Sockets;
 using System.Net;
 using System.Text;
+using System;
+using System.Threading;
 
 namespace _2_Pizza_Thread
 {
@@ -9,29 +11,30 @@ namespace _2_Pizza_Thread
         private const int BUFFER_SIZE = 1024;
         private readonly TcpClient client;
 
-        public Handler(TcpClient client)    // 각 스레드마다 클라이언트 소켓을 부여받는다.
+        public Handler(TcpClient client)//clinet 셋팅하기    
         {
             this.client = client;
         }
 
-        public void Run()   // 스레드마다 서버의 역할 수행
+        public void Run()//돌아가는 부분
         {
             IPEndPoint clientEndPoint = client.Client.RemoteEndPoint as IPEndPoint;
             Console.WriteLine($"Connected to {clientEndPoint}");
 
-            NetworkStream stream = client.GetStream();
+            NetworkStream stream = client.GetStream();//스트림 받아와서
             byte[] buffer = new byte[BUFFER_SIZE];
 
             try
             {
                 while (true)
                 {
-                    int bytesRead = stream.Read(buffer, 0, BUFFER_SIZE);
+                    int bytesRead = stream.Read(buffer, 0, BUFFER_SIZE);//버퍼가 그거 읽고
                     if (bytesRead == 0) break;
 
-                    string received = Encoding.UTF8.GetString(buffer, 0, bytesRead);
+                    string received = Encoding.UTF8.GetString(buffer, 0, bytesRead);//인간이 알아 먹을수 있게 변환하고
                     string response;
 
+                    //주문한 피자만큼 출력
                     if (int.TryParse(received, out int order))
                     {
                         response = $"Thank you for ordering {order} pizzas!\n";
@@ -59,7 +62,7 @@ namespace _2_Pizza_Thread
         private const int PORT = 12345;
         private readonly TcpListener server;
 
-        public ThreadServer()   // 서버 소켓 세팅
+        public ThreadServer() 
         {
             try
             {
@@ -83,13 +86,13 @@ namespace _2_Pizza_Thread
             {
                 while (true)    
                 {   
-                    TcpClient client = server.AcceptTcpClient();
+                    TcpClient client = server.AcceptTcpClient();//클라이언트의 연결을 수락하고
                     Console.WriteLine($"Client connection request from {client.Client.RemoteEndPoint}");
 
-                    Handler handler = new Handler(client);
-                    Thread thread = new Thread(new ThreadStart(handler.Run));
-                    thread.Start();
-                } // 클라이언트 요청이 들어올 때마다 새로운 스레드를 생성한다.
+                    Handler handler = new Handler(client);//클라이언트 별로 Handler만듦.
+                    Thread thread = new Thread(new ThreadStart(handler.Run));//Handler마다 또 Tread드를 만들어줌.
+                    thread.Start();//Thread스타트
+                } 
             }
             finally
             {
@@ -99,7 +102,7 @@ namespace _2_Pizza_Thread
         }
         static void Main()
         {
-            ThreadServer server = new ThreadServer();
+            ThreadServer server = new ThreadServer();//뜨레드 서버 생성
             server.Start();
         }
     }

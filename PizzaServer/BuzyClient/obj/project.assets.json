@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\ConsoleApp2\\BuzyClient.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\BuzyClient\\BuzyClient.csproj",
       "projectName": "BuzyClient",
-      "projectPath": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\ConsoleApp2\\BuzyClient.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\BuzyClient\\BuzyClient.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\ConsoleApp2\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\BuzyClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

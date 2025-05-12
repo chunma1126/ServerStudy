@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8y7oUUb6dco=",
+  "dgSpecHash": "xIPcihqrRD8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\ConsoleApp2\\BuzyClient.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\BuzyClient\\BuzyClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

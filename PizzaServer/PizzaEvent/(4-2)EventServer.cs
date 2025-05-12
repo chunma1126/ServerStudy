@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Net;
@@ -8,7 +9,7 @@ namespace _4_Pizza_Event
 {
     internal class EventServer
     {
-        private const int BUFFER_SIZE = 1024;
+        private const int BUFFER_SIZE = 1024;//최대 사이즈
         private readonly Socket serverSocket;
         private readonly EventLoop loop;
         private readonly Dictionary<Socket, string> pendingMessages = new();
@@ -21,13 +22,14 @@ namespace _4_Pizza_Event
             serverSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             serverSocket.Bind(new IPEndPoint(IPAddress.Loopback, 12345));
             serverSocket.Listen(100);
-            serverSocket.Blocking = false;
+            serverSocket.Blocking = false;//논 블로킹으로 서버 생성
 
             Console.WriteLine("Server started on 127.0.0.1:12345");
         }
 
         public void Start()
         {                       
+            //이벤트 등록 read에 onAccept란걸
             loop.RegisterRead(serverSocket, OnAccept);  // 새로운 클라이언트 연결을 수락할 수 있을 때 실행
             Console.WriteLine("Waiting for clients...");
         }
@@ -37,7 +39,7 @@ namespace _4_Pizza_Event
             try
             {
                 Socket client = listener.Accept();
-                client.Blocking = false;
+                client.Blocking = false;//논 블로킹
                 Console.WriteLine($"Connected: {client.RemoteEndPoint}");
 
                 loop.RegisterRead(client, OnRead);  // 특정 클라이언트가 보낸 메시지를 읽을 수 있을 때 실행
@@ -108,12 +110,14 @@ namespace _4_Pizza_Event
             loop.RegisterRead(client, OnRead);
         }
 
+        //클라이언트 닫기 전에 처리 해주는 함수
         private void CloseClient(Socket client)
         {
             Console.WriteLine($"Disconnected: {client.RemoteEndPoint}");
-            loop.Unregister(client);
-            client.Close();
+            loop.Unregister(client);//모든 이벤트 다 지우기
+            client.Close();//클라이언트 닫기
         }
+
     }
 
 }

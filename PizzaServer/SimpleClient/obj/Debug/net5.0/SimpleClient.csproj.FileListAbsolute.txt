@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ServerStudy\PizzaServer\SimpleClient\bin\Debug\net5.0\SimpleClient.exe
+C:\Users\user\source\repos\ServerStudy\PizzaServer\SimpleClient\bin\Debug\net5.0\SimpleClient.deps.json
+C:\Users\user\source\repos\ServerStudy\PizzaServer\SimpleClient\bin\Debug\net5.0\SimpleClient.runtimeconfig.json
+C:\Users\user\source\repos\ServerStudy\PizzaServer\SimpleClient\bin\Debug\net5.0\SimpleClient.runtimeconfig.dev.json
+C:\Users\user\source\repos\ServerStudy\PizzaServer\SimpleClient\bin\Debug\net5.0\SimpleClient.dll
+C:\Users\user\source\repos\ServerStudy\PizzaServer\SimpleClient\bin\Debug\net5.0\SimpleClient.pdb
+C:\Users\user\source\repos\ServerStudy\PizzaServer\SimpleClient\obj\Debug\net5.0\SimpleClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ServerStudy\PizzaServer\SimpleClient\obj\Debug\net5.0\SimpleClient.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ServerStudy\PizzaServer\SimpleClient\obj\Debug\net5.0\SimpleClient.AssemblyInfo.cs
+C:\Users\user\source\repos\ServerStudy\PizzaServer\SimpleClient\obj\Debug\net5.0\SimpleClient.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ServerStudy\PizzaServer\SimpleClient\obj\Debug\net5.0\SimpleClient.sourcelink.json
+C:\Users\user\source\repos\ServerStudy\PizzaServer\SimpleClient\obj\Debug\net5.0\SimpleClient.dll
+C:\Users\user\source\repos\ServerStudy\PizzaServer\SimpleClient\obj\Debug\net5.0\refint\SimpleClient.dll
+C:\Users\user\source\repos\ServerStudy\PizzaServer\SimpleClient\obj\Debug\net5.0\SimpleClient.pdb
+C:\Users\user\source\repos\ServerStudy\PizzaServer\SimpleClient\obj\Debug\net5.0\SimpleClient.genruntimeconfig.cache
+C:\Users\user\source\repos\ServerStudy\PizzaServer\SimpleClient\obj\Debug\net5.0\ref\SimpleClient.dll

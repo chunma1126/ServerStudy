@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\PizzaServer\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C81C06C-29EA-4906-8095-68A942F313A9}|PizzaServerClient\\PizzaServerClient.csproj|c:\\users\\user\\source\\repos\\pizzaserver\\pizzaserverclient\\(1)pizza_serverclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C81C06C-29EA-4906-8095-68A942F313A9}|PizzaServerClient\\PizzaServerClient.csproj|c:\\users\\user\\source\\repos\\serverstudy\\pizzaserver\\pizzaserverclient\\(1)pizza_serverclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C81C06C-29EA-4906-8095-68A942F313A9}|PizzaServerClient\\PizzaServerClient.csproj|solutionrelative:pizzaserverclient\\(1)pizza_serverclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0BE02F-C5D8-49D2-ACBB-8A34ACE683FF}|ConsoleApp4\\PizzaNonb.csproj|c:\\users\\user\\source\\repos\\pizzaserver\\consoleapp4\\(3)nonbserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0BE02F-C5D8-49D2-ACBB-8A34ACE683FF}|ConsoleApp4\\PizzaNonb.csproj|solutionrelative:consoleapp4\\(3)nonbserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B0BE02F-C5D8-49D2-ACBB-8A34ACE683FF}|ConsoleApp4\\PizzaNonB.csproj|c:\\users\\user\\source\\repos\\serverstudy\\pizzaserver\\consoleapp4\\(3)nonbserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0BE02F-C5D8-49D2-ACBB-8A34ACE683FF}|ConsoleApp4\\PizzaNonB.csproj|solutionrelative:consoleapp4\\(3)nonbserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{312DEA49-3FEE-49FE-922C-98ABCC9CF8D5}|ConsoleApp2\\BuzyClient.csproj|c:\\users\\user\\source\\repos\\pizzaserver\\consoleapp2\\(99)busyclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{312DEA49-3FEE-49FE-922C-98ABCC9CF8D5}|ConsoleApp2\\BuzyClient.csproj|c:\\users\\user\\source\\repos\\serverstudy\\pizzaserver\\consoleapp2\\(99)busyclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{312DEA49-3FEE-49FE-922C-98ABCC9CF8D5}|ConsoleApp2\\BuzyClient.csproj|solutionrelative:consoleapp2\\(99)busyclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8467DBD0-AF1E-45F8-9D87-3DD0E7D77B2C}|ConsoleApp3\\PizzaEvent.csproj|c:\\users\\user\\source\\repos\\pizzaserver\\consoleapp3\\(4-1)eventloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8467DBD0-AF1E-45F8-9D87-3DD0E7D77B2C}|ConsoleApp3\\PizzaEvent.csproj|c:\\users\\user\\source\\repos\\serverstudy\\pizzaserver\\consoleapp3\\(4-1)eventloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8467DBD0-AF1E-45F8-9D87-3DD0E7D77B2C}|ConsoleApp3\\PizzaEvent.csproj|solutionrelative:consoleapp3\\(4-1)eventloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8467DBD0-AF1E-45F8-9D87-3DD0E7D77B2C}|ConsoleApp3\\PizzaEvent.csproj|c:\\users\\user\\source\\repos\\pizzaserver\\consoleapp3\\(4-2)eventserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8467DBD0-AF1E-45F8-9D87-3DD0E7D77B2C}|ConsoleApp3\\PizzaEvent.csproj|c:\\users\\user\\source\\repos\\serverstudy\\pizzaserver\\consoleapp3\\(4-2)eventserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8467DBD0-AF1E-45F8-9D87-3DD0E7D77B2C}|ConsoleApp3\\PizzaEvent.csproj|solutionrelative:consoleapp3\\(4-2)eventserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8467DBD0-AF1E-45F8-9D87-3DD0E7D77B2C}|ConsoleApp3\\PizzaEvent.csproj|c:\\users\\user\\source\\repos\\pizzaserver\\consoleapp3\\(4-3)program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8467DBD0-AF1E-45F8-9D87-3DD0E7D77B2C}|ConsoleApp3\\PizzaEvent.csproj|c:\\users\\user\\source\\repos\\serverstudy\\pizzaserver\\consoleapp3\\(4-3)program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8467DBD0-AF1E-45F8-9D87-3DD0E7D77B2C}|ConsoleApp3\\PizzaEvent.csproj|solutionrelative:consoleapp3\\(4-3)program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5CD92B7-12C2-41FA-930E-50BC267860F9}|ConsoleApp1\\PizzaThread.csproj|c:\\users\\user\\source\\repos\\pizzaserver\\consoleapp1\\(2)threadserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5CD92B7-12C2-41FA-930E-50BC267860F9}|ConsoleApp1\\PizzaThread.csproj|c:\\users\\user\\source\\repos\\serverstudy\\pizzaserver\\consoleapp1\\(2)threadserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5CD92B7-12C2-41FA-930E-50BC267860F9}|ConsoleApp1\\PizzaThread.csproj|solutionrelative:consoleapp1\\(2)threadserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CFAFDC0-A310-46ED-8BE0-B4EB4539BE89}|SimpleClient\\SimpleClient.csproj|c:\\users\\user\\source\\repos\\pizzaserver\\simpleclient\\simpleclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0CFAFDC0-A310-46ED-8BE0-B4EB4539BE89}|SimpleClient\\SimpleClient.csproj|c:\\users\\user\\source\\repos\\serverstudy\\pizzaserver\\simpleclient\\simpleclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0CFAFDC0-A310-46ED-8BE0-B4EB4539BE89}|SimpleClient\\SimpleClient.csproj|solutionrelative:simpleclient\\simpleclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -56,11 +56,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "(1)Pizza_ServerClient.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PizzaServer\\PizzaServerClient\\(1)Pizza_ServerClient.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\PizzaServerClient\\(1)Pizza_ServerClient.cs",
               "RelativeDocumentMoniker": "PizzaServerClient\\(1)Pizza_ServerClient.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\PizzaServer\\PizzaServerClient\\(1)Pizza_ServerClient.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\PizzaServerClient\\(1)Pizza_ServerClient.cs",
               "RelativeToolTip": "PizzaServerClient\\(1)Pizza_ServerClient.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAADQAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T01:17:07.062Z",
               "EditorCaption": ""
@@ -69,92 +69,85 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "(3)NonBServer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PizzaServer\\ConsoleApp4\\(3)NonBServer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\ConsoleApp4\\(3)NonBServer.cs",
               "RelativeDocumentMoniker": "ConsoleApp4\\(3)NonBServer.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\PizzaServer\\ConsoleApp4\\(3)NonBServer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\ConsoleApp4\\(3)NonBServer.cs",
               "RelativeToolTip": "ConsoleApp4\\(3)NonBServer.cs",
               "ViewState": "AgIAAF8AAAAAAAAAAAAkwBMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T01:16:36.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T01:16:36.155Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "(4-3)Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PizzaServer\\ConsoleApp3\\(4-3)Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\ConsoleApp3\\(4-3)Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp3\\(4-3)Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\PizzaServer\\ConsoleApp3\\(4-3)Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\ConsoleApp3\\(4-3)Program.cs",
               "RelativeToolTip": "ConsoleApp3\\(4-3)Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T01:16:31.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T01:16:31.025Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "(4-2)EventServer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PizzaServer\\ConsoleApp3\\(4-2)EventServer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\ConsoleApp3\\(4-2)EventServer.cs",
               "RelativeDocumentMoniker": "ConsoleApp3\\(4-2)EventServer.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\PizzaServer\\ConsoleApp3\\(4-2)EventServer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\ConsoleApp3\\(4-2)EventServer.cs",
               "RelativeToolTip": "ConsoleApp3\\(4-2)EventServer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T01:16:26.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T01:16:26.463Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "(4-1)EventLoop.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PizzaServer\\ConsoleApp3\\(4-1)EventLoop.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\ConsoleApp3\\(4-1)EventLoop.cs",
               "RelativeDocumentMoniker": "ConsoleApp3\\(4-1)EventLoop.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\PizzaServer\\ConsoleApp3\\(4-1)EventLoop.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\ConsoleApp3\\(4-1)EventLoop.cs",
               "RelativeToolTip": "ConsoleApp3\\(4-1)EventLoop.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T01:16:25.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T01:16:25.562Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "(99)BusyClient.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PizzaServer\\ConsoleApp2\\(99)BusyClient.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\ConsoleApp2\\(99)BusyClient.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\(99)BusyClient.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\PizzaServer\\ConsoleApp2\\(99)BusyClient.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\ConsoleApp2\\(99)BusyClient.cs",
               "RelativeToolTip": "ConsoleApp2\\(99)BusyClient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T01:16:19.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T01:16:19.161Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "(2)ThreadServer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PizzaServer\\ConsoleApp1\\(2)ThreadServer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\ConsoleApp1\\(2)ThreadServer.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\(2)ThreadServer.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\PizzaServer\\ConsoleApp1\\(2)ThreadServer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\ConsoleApp1\\(2)ThreadServer.cs",
               "RelativeToolTip": "ConsoleApp1\\(2)ThreadServer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T01:16:13.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T01:16:13.659Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "SimpleClient",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PizzaServer\\SimpleClient\\SimpleClient.csproj",
+              "Title": "SimpleClient.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\SimpleClient\\SimpleClient.csproj",
               "RelativeDocumentMoniker": "SimpleClient\\SimpleClient.csproj",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\PizzaServer\\SimpleClient\\SimpleClient.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ServerStudy\\PizzaServer\\SimpleClient\\SimpleClient.csproj",
               "RelativeToolTip": "SimpleClient\\SimpleClient.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T01:15:04.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T01:15:04.029Z"
             }
           ]
         }

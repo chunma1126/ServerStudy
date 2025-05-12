@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\PizzaServer\PizzaServerClient\bin\Debug\net5.0\PizzaServerClient.exe
+C:\Users\user\source\repos\PizzaServer\PizzaServerClient\bin\Debug\net5.0\PizzaServerClient.deps.json
+C:\Users\user\source\repos\PizzaServer\PizzaServerClient\bin\Debug\net5.0\PizzaServerClient.runtimeconfig.json
+C:\Users\user\source\repos\PizzaServer\PizzaServerClient\bin\Debug\net5.0\PizzaServerClient.runtimeconfig.dev.json
+C:\Users\user\source\repos\PizzaServer\PizzaServerClient\bin\Debug\net5.0\PizzaServerClient.dll
+C:\Users\user\source\repos\PizzaServer\PizzaServerClient\bin\Debug\net5.0\PizzaServerClient.pdb
+C:\Users\user\source\repos\PizzaServer\PizzaServerClient\obj\Debug\net5.0\PizzaServerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PizzaServer\PizzaServerClient\obj\Debug\net5.0\PizzaServerClient.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PizzaServer\PizzaServerClient\obj\Debug\net5.0\PizzaServerClient.AssemblyInfo.cs
+C:\Users\user\source\repos\PizzaServer\PizzaServerClient\obj\Debug\net5.0\PizzaServerClient.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PizzaServer\PizzaServerClient\obj\Debug\net5.0\PizzaServerClient.dll
+C:\Users\user\source\repos\PizzaServer\PizzaServerClient\obj\Debug\net5.0\refint\PizzaServerClient.dll
+C:\Users\user\source\repos\PizzaServer\PizzaServerClient\obj\Debug\net5.0\PizzaServerClient.pdb
+C:\Users\user\source\repos\PizzaServer\PizzaServerClient\obj\Debug\net5.0\PizzaServerClient.genruntimeconfig.cache
+C:\Users\user\source\repos\PizzaServer\PizzaServerClient\obj\Debug\net5.0\ref\PizzaServerClient.dll

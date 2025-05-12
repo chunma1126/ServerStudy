@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\PizzaServer\ConsoleApp2\obj\Debug\net5.0\BuzyClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PizzaServer\ConsoleApp2\obj\Debug\net5.0\BuzyClient.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PizzaServer\ConsoleApp2\obj\Debug\net5.0\BuzyClient.AssemblyInfo.cs
+C:\Users\user\source\repos\PizzaServer\ConsoleApp2\obj\Debug\net5.0\BuzyClient.csproj.CoreCompileInputs.cache
